@@ -5,7 +5,5 @@
 
 找我
 ------
-* Email: [tonjayin@gmail.com](tonjayin@gmail.com)
-* GitHub: [@Jayin](https://github.com/Jayin)
-* 新浪微博: [@Jayin_Ton](http://weibo.com/tjy273942569)
+* Email: [hzwei2011@gmail.com](tonjayin@gmail.com)
 
