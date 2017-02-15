@@ -1,4 +1,4 @@
-##Jayin Ton
+##Haizhu
 * stay  at WYU for the second year since 2012
 * focuse on Java & Android developement
 * learning javascript -> node.js
