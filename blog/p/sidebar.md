@@ -2,7 +2,7 @@
 
 # [Haizhu](.)
 
-> Don't limit yourself.
+> Hello Word!
 
 - [技术](tech/index.md)
 - [笔记](notes/readme.md)
