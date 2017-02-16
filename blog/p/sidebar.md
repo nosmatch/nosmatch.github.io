@@ -4,8 +4,8 @@
 
 > Don't limit yourself.
 
-- [Timeline](diaries/index.md)
-- [Tech](tech/index.md)
-- [Notes](notes/readme.md)
-- [Library](library/index.md)
-- [About](about.md)
+- [技术](tech/index.md)
+- [笔记](notes/readme.md)
+- [开源](library/index.md)
+- [时间线](diaries/index.md)
+- [关于我](about.md)
