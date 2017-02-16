@@ -1,4 +1,4 @@
-[JayinTon.com](http://jayinton.com)
+[Haizhu.com](http://future521.com)
 --------------
 
 This is my home page.
